@@ -1,0 +1,9 @@
+demos/datasets/small_parallel_enja
+demos/datasets/*.json
+demos/*/__pycache__/
+tmp
+
+#etc
+.vscode
+__pycache__
+.DS_Store

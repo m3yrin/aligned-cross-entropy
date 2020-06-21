@@ -8,7 +8,7 @@ Test implementation of "Aligned Cross Entropy for Non-Autoregressive Machine Tra
 * Built on PyTorch 1.5.0
 * code is in `axe/axe.py`
 
-## Test
+## Demo
 ### Model
 * CTC model of https://arxiv.org/abs/2004.07437
 * Implementation is based on https://github.com/m3yrin/nar-latent-alignment

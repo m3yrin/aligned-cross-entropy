@@ -15,5 +15,5 @@ Test implementation of "Aligned Cross Entropy for Non-Autoregressive Machine Tra
 * see detail at https://github.com/odashi/small_parallel_enja
 ### Example
 Please see detail at my colaboratory notebook.  
-<a href="https://colab.research.google.com/github/m3yrin/aligned-cross-entropy/blob/master/demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+<a href="https://colab.research.google.com/github/m3yrin/aligned-cross-entropy/blob/master/demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>   
 https://colab.research.google.com/github/m3yrin/aligned-cross-entropy/blob/master/demo.ipynb

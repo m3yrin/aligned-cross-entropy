@@ -1,9 +1,7 @@
 # m3yrin/aligned-cross-entropy [WIP]
 Test implementation of "Aligned Cross Entropy for Non-Autoregressive Machine Translation" https://arxiv.org/abs/2004.01655
 
-<!--
-<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
--->
+<a href="https://colab.research.google.com/github/m3yrin/aligned-cross-entropy/blob/master/demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 * Built on PyTorch 1.5.0
 * code is in `axe/axe.py`
@@ -15,10 +13,7 @@ Test implementation of "Aligned Cross Entropy for Non-Autoregressive Machine Tra
 ### Dataset
 * A small parallel corpus for English-Japanese translation task provided by @odashi
 * see detail at https://github.com/odashi/small_parallel_enja
-
-<!--
 ### Example
-
-<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
--->
-
+Please see detail at my colaboratory notebook.  
+<a href="https://colab.research.google.com/github/m3yrin/aligned-cross-entropy/blob/master/demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+https://colab.research.google.com/github/m3yrin/aligned-cross-entropy/blob/master/demo.ipynb

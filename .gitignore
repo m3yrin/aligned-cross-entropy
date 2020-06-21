@@ -1,7 +1,7 @@
 demos/datasets/small_parallel_enja
 demos/datasets/*.json
-demos/*/__pycache__/
-tmp
+*/__pycache__/
+demos/tmp/
 
 #etc
 .vscode
